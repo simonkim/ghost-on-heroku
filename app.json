@@ -5,8 +5,7 @@
   "repository": "https://github.com/cobyism/ghost-on-heroku",
   "success_url": "/ghost",
   "addons": [
-    "heroku-postgresql",
-    "mailgun"
+    "heroku-postgresql"
   ],
   "env": {
     "HEROKU_URL": {
